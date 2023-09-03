@@ -56,7 +56,7 @@ npm install -g npm@latest
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
+[![Run on Repl.it](https://repl.it/badge/github/araktuak/Botwep)](https://repl.it/github/araktuak/Botwep)
 
 ---------
 ## FOR WINDOWS/RDP USER 💻
